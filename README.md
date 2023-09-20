@@ -15,7 +15,7 @@ Object-level Feature Memory and Aggregation for Live-stream Video Object Detecti
 
 Some portions of this project were inspired by and adapted from the following source code:
 
-- [YOLOX]([Link to Source Code Repository](https://github.com/Megvii-BaseDetection/YOLOX))
+- [YOLOX](https://github.com/Megvii-BaseDetection/YOLOX)
 
 I would like to express my gratitude to this project for providing valuable reference and inspiration for this project.
 
